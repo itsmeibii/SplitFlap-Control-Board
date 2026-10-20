@@ -32,6 +32,8 @@ A Raspberry Pi 4 controller board for a split-flap display with HUB75 LED matrix
 | ![top](docs/images/SplitFlap-pcb-top.png) | ![bottom](docs/images/SplitFlap-pcb-bottom.png) |
 
 ## Enclosure
-![Enclosure](docs/images/preview_row.png)
+![Enclosure render](docs/images/SplitFlap-enclosure-3d.png)
+
+![Enclosure preview, front and cutaway](docs/images/preview_row.png)
 
 The split-flap mechanism and driver boards come from [scottbez1/splitflap](https://github.com/scottbez1/splitflap). This repo contains only the control board and enclosure I designed for it.
