@@ -1,0 +1,22 @@
+# third-party code (cloned from upstream, not mine)
+splitflap/
+kicad-libraries/
+
+# KiCad junk
+*-backups/
+fp-info-cache
+*.bak
+*.kicad_prl
+*.lck
+\#auto_saved_files#
+_autosave-*
+archive/
+
+# build output
+.pio/
+build/
+__pycache__/
+*.pyc
+
+# KiCad local history
+.history/

@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ControlBoard-eagle-import") (type "KiCad") (uri "${KIPRJMOD}/ControlBoard-eagle-import.kicad_sym") (options "") (descr ""))
+	(lib (name "Adafruit_HUSB238") (type "KiCad") (uri "${KIPRJMOD}/Adafruit_HUSB238.kicad_sym") (options "") (descr "Adafruit USB-C PD breakout"))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Adafruit_HUSB238") (type "KiCad") (uri "${KIPRJMOD}/Adafruit_HUSB238.pretty") (options "") (descr "Adafruit USB-C PD breakout"))
+	(lib (name "ControlBoard") (type "KiCad") (uri "${KIPRJMOD}/ControlBoard.pretty") (options "") (descr "Project-specific footprints"))
+)
